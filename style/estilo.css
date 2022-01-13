@@ -47,7 +47,7 @@ header nav ul li {
 /*CHAMADA*/
 
 .layout-chamada {
-    background: no-repeat center/cover url('assets/header-image6.jpg');
+    background: no-repeat center/cover url('../assets/header-image6.jpg'); /*PONTO PONTO: volte uma pasta*/
     padding: 90px 0;
 }
 
